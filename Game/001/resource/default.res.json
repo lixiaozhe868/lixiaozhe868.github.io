@@ -22,7 +22,7 @@
 		{
 			"name":"board",
 			"type":"image",
-			"url":"assets/Board.png"
+			"url":"assets/board.png"
 		},
 		{
 			"name":"bread_mask",
@@ -32,7 +32,7 @@
 		{
 			"name":"bread",
 			"type":"image",
-			"url":"assets/bread.png"
+			"url":"assets/Bread.png"
 		},
 		{
 			"name":"people",
