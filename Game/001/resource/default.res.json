@@ -7,7 +7,7 @@
 		{
 			"name":"bgImage",
 			"type":"image",
-			"url":"assets/bg.jpg"
+			"url":"assets/BG.jpg"
 		},
 		{
 			"name":"egretIcon",
@@ -22,12 +22,12 @@
 		{
 			"name":"board",
 			"type":"image",
-			"url":"assets/board.png"
+			"url":"assets/Board.png"
 		},
 		{
 			"name":"bread_mask",
 			"type":"image",
-			"url":"assets/bread_mask.png"
+			"url":"assets/Bread_mask.png"
 		},
 		{
 			"name":"bread",
